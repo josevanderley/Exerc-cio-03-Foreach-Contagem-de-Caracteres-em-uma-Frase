@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\obj\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\obj\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\obj\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\bin\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.exe.config
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\bin\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.exe
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\bin\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.pdb
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\obj\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.exe
+C:\Users\Ornare\source\repos\Exercício 03 Foreach  Contagem de Caracteres em uma Frase\obj\Debug\Exercício 03 Foreach  Contagem de Caracteres em uma Frase.pdb
